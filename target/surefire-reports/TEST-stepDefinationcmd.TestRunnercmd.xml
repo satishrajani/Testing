@@ -66,8 +66,8 @@
   <testcase classname="Scenario: Gmail Login Functionality Test" name="Then user enters username" time="0"/>
   <testcase classname="Scenario: Gmail Login Functionality Test" name="Then user enters Password" time="0"/>
   <testcase classname="Scenario: Gmail Login Functionality Test" name="And user click on submit button" time="0"/>
-  <testcase classname="Scenario: Gmail Login Functionality Test" name="And User_Should_be_logged_in_successfully" time="0.001"/>
-  <testcase classname="Scenario: Gmail Login Functionality Test" name="Scenario: Gmail Login Functionality Test" time="0.002"/>
+  <testcase classname="Scenario: Gmail Login Functionality Test" name="And User_Should_be_logged_in_successfully" time="0"/>
+  <testcase classname="Scenario: Gmail Login Functionality Test" name="Scenario: Gmail Login Functionality Test" time="0.001"/>
   <testcase classname="Scenario: Search for selenium jobs" name="Given User is logged in to Irishportal" time="0"/>
   <testcase classname="Scenario: Search for selenium jobs" name="Then user enter the keyword" time="0"/>
   <testcase classname="Scenario: Search for selenium jobs" name="And click on search button" time="0"/>
@@ -84,5 +84,5 @@
   <testcase classname="Scenario: Gmail Login Functionality Test" name="And User_Should_be_logged_in_successfully" time="0"/>
   <testcase classname="Scenario: Gmail Login Functionality Test" name="And logged out from the portal" time="0"/>
   <testcase classname="Scenario: Gmail Login Functionality Test" name="And logout" time="0"/>
-  <testcase classname="Scenario: Gmail Login Functionality Test" name="Scenario: Gmail Login Functionality Test" time="0.002"/>
+  <testcase classname="Scenario: Gmail Login Functionality Test" name="Scenario: Gmail Login Functionality Test" time="0.004"/>
 </testsuite>
